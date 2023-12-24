@@ -1,0 +1,65 @@
+* {
+    background-repeat: no-repeat;
+    margin: 0;
+}
+#background {
+    background-image: linear-gradient(rgb(52, 52, 90), rgb(220, 110, 50));
+    height: 70vh;
+}
+#water {
+    background-image: linear-gradient(rgb(180, 100, 100), rgb(90, 70, 108));
+    height: 30vh;
+}
+#mountains {
+    background: url(mountains.svg);
+    background-position: 100vw 100vh;
+    height: 100vh;
+    width: 100vw;
+    z-index: 2;
+    bottom: 180px;
+    position: fixed;
+}
+#circle1 {
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    margin: 95px;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    opacity: 0.8;
+}
+#circle2 {
+    background-color: white;
+    height: 130px;
+    width: 130px;
+    border-radius: 100%;
+    margin: 70px;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    opacity: 0.05;
+}
+#circle3 {
+    background-color: white;
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+    margin: 45px;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    opacity: 0.03;
+}
+#circle4 {
+    background-color: white;
+    height: 230px;
+    width: 230px;
+    border-radius: 100%;
+    margin: 20px;
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    opacity: 0.01;
+}
