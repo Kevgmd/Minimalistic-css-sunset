@@ -3,7 +3,7 @@
 
 - A simple and minimalistic landscape, featuring high peaks and beautiful colors.
 
-- Made using css and svg.
+- Made using css and svgs.
 
 - Better viewed with a 1366x768 monitor and fullscreen.
 
