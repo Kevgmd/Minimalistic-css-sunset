@@ -1,7 +1,7 @@
 # Minimalistic-css-sunset ☀️
 ### Minimalistic css sunset
 
-- A simple and minimalistic landscape, featuring high peaks, beautiful colors and water reflection.
+- A simple and minimalistic landscape, featuring high peaks and beautiful colors.
 
 - Made using css and svg.
 
